@@ -18,7 +18,7 @@ files {
 
     'video.mp4',
 
-    'music.mp3',
+    'music1.mp3',
     'music2.mp3',
     'music3.mp3'
 }
